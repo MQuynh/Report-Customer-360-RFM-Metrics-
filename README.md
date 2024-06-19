@@ -3,7 +3,7 @@ Use Power BI, SQL, Excel
 # Project overview 
 The goal of this project is to gain a comprehensive understanding of customers and segment them based on their behavior using the Customer 360 approach. By gathering data from various channels and touchpoints, including demographic, transaction, interaction, and behavioral data, I aim to create a holistic view of each individual customer.
 # Data Model 
-![image](https://github.com/MQuynh/Report-Customer-360-RFM-Metrics-/assets/120617972/dc877ac1-e226-49b4-86bd-07dfd31cb149)
+![image](https://github.com/MQuynh/Report-Customer-360-RFM-Metrics-/assets/120617972/ad223eff-b6ff-4001-a3a9-66ed2b423806)
 # Analysis Model
 1. Use Customer 360
    ![image](https://github.com/MQuynh/Report-Customer-360-RFM-Metrics-/assets/120617972/8e4ef113-4321-4605-886f-aaeddb40bd06)
